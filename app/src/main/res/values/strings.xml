@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test App</string>
+
+    <string name="title">COACH MANAGEMENT SYSTEM</string>
+    <string name="train_mod">TRAIN MANAGEMENT</string>
+    <string name="seat_mod">SEAT MANAGEMENT</string>
+    <string name="pass_mod">PASSENGER MANAGEMENT</string>
+    <string name="coach_mod">COACH MANAGEMENT</string>
+    <string name="coach_num_mod">COACH NUMBER MANAGEMENT</string>
+</resources>
